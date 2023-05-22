@@ -1,0 +1,3 @@
+# paclist
+
+a personal rules
