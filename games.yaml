@@ -1,0 +1,49 @@
+payload:
+  # 内容：games
+  
+  #游戏王
+  - DOMAIN-SUFFIX,konami.net
+  - DOMAIN-SUFFIX,applilink.jp
+  - DOMAIN-SUFFIX,adjust.com
+  
+  #ingress
+  - DOMAIN-SUFFIX,nianticlabs.com
+  - DOMAIN-SUFFIX,nianticstatic.com
+  
+  #战网
+  - DOMAIN-SUFFIX,battle.net
+  - DOMAIN-SUFFIX,blizzard.com
+
+  #albion
+  - DOMAIN-SUFFIX,easyanticheat.net
+  - DOMAIN-SUFFIX,albiononline.com
+  - DOMAIN-SUFFIX,albion.zone
+  - IP-CIDR,5.45.187.0/24,no-resolve
+  - IP-CIDR,5.188.125.0/24,no-resolve
+  
+  #风暴英雄亚服
+  - IP-CIDR,8.249.17.0/24,no-resolve
+  - IP-CIDR,18.155.202.0/24,no-resolve
+  - IP-CIDR,24.105.29.0/24,no-resolve
+  - IP-CIDR,59.153.40.0/24,no-resolve
+  - IP-CIDR,74.201.106.0/24,no-resolve
+  - IP-CIDR,110.45.216.0/24,no-resolve
+  - IP-CIDR,114.250.65.0/24,no-resolve
+  - IP-CIDR,114.250.66.0/24,no-resolve
+  - IP-CIDR,117.52.35.0/24,no-resolve
+  - IP-CIDR,117.52.36.0/24,no-resolve
+  - IP-CIDR,137.221.106.0/24,no-resolve
+  - IP-CIDR,151.101.66.0/24,no-resolve
+  - IP-CIDR,162.247.241.0/24,no-resolve
+  
+  #风暴英雄欧服
+  - IP-CIDR,59.153.40.0/24,no-resolve
+  - IP-CIDR,24.105.29.0/24,no-resolve
+  - IP-CIDR,114.250.63.0/24,no-resolve
+  - IP-CIDR,67.26.163.0/24,no-resolve
+  - IP-CIDR,37.244.28.0/24,no-resolve
+  - IP-CIDR,74.201.106.0/24,no-resolve
+  - IP-CIDR,24.105.56.0/24,no-resolve
+  - IP-CIDR,117.52.35.0/24,no-resolve
+
+
