@@ -1,10 +1,10 @@
 payload:
   # CUSTOM
-  - DOMAIN-SUFFIX,yuplay.com
+
   - DOMAIN-SUFFIX,yoqu.icu
   # OpenAi
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,ai.com
   
-  #- DOMAIN,googlehomefoyer-pa.googleapis.com
+  - DOMAIN,googlehomefoyer-pa.googleapis.com
