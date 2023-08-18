@@ -4,6 +4,7 @@ payload:
   
   #custom
   - DOMAIN-SUFFIX,kukutu8.com
+  - DOMAIN-SUFFIX,duckdns.org
 
   # ACL4SSR标志 如没有，代表不是用ACL4SSR规则
   - DOMAIN-SUFFIX,acl4.ssr
