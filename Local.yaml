@@ -3,3 +3,4 @@ payload:
   # 内容：Local
   - IP-CIDR,192.168.31.0/24
   - IP-CIDR,10.0.0.0/24
+  - IP-CIDR,10.0.1.0/24
