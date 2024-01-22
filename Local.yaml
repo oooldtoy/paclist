@@ -4,3 +4,5 @@ payload:
   - IP-CIDR,192.168.31.0/24
   - IP-CIDR,10.0.0.0/24
   - IP-CIDR,10.0.1.0/24
+  - DOMAIN-SUFFIX,3.op
+  - DOMAIN-SUFFIX,4.op
