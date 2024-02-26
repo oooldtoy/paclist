@@ -8,5 +8,6 @@ payload:
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,gemini.google.com
   
   - DOMAIN,googlehomefoyer-pa.googleapis.com
