@@ -46,4 +46,7 @@ payload:
   - IP-CIDR,24.105.56.0/24,no-resolve
   - IP-CIDR,117.52.35.0/24,no-resolve
 
+  #turtle
+  - IP-CIDR,169.150.222.0/24,no-resolve
+
 
