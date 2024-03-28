@@ -12,6 +12,8 @@ payload:
   - DOMAIN-SUFFIX,storage.googleapis.com
   - DOMAIN-SUFFIX,content.googleapis.com
   - DOMAIN-SUFFIX,tasks-pa.googleapis.com
+  - DOMAIN-SUFFIX,people-pa.googleapis.com
+  - DOMAIN-SUFFIX,play-fe.googleapis.com
   
   #战网
   - DOMAIN-SUFFIX,battle.net
