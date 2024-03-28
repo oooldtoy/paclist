@@ -9,7 +9,7 @@ payload:
   #ingress
   - DOMAIN-SUFFIX,nianticlabs.com
   - DOMAIN-SUFFIX,nianticstatic.com
-  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,storage.googleapis.com
   
   #战网
   - DOMAIN-SUFFIX,battle.net
