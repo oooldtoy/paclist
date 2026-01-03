@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,kukutu8.com
   - DOMAIN-SUFFIX,duckdns.org
   - DOMAIN,dcg.microsoft.com
+  - DOMAIN-SUFFIX,baas.nintendo.com
 
   # ACL4SSR标志 如没有，代表不是用ACL4SSR规则
   - DOMAIN-SUFFIX,acl4.ssr
