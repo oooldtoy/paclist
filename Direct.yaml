@@ -6,7 +6,8 @@ payload:
   - DOMAIN-SUFFIX,kukutu8.com
   - DOMAIN-SUFFIX,duckdns.org
   - DOMAIN,dcg.microsoft.com
-  
+  - IP-CIDR,88.80.135.184
+  - IP-CIDR,34.36.119.159
 
   # ACL4SSR标志 如没有，代表不是用ACL4SSR规则
   - DOMAIN-SUFFIX,acl4.ssr
