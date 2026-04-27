@@ -18,4 +18,4 @@ payload:
   - DOMAIN,googlehomefoyer-pa.googleapis.com
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   - DOMAIN-SUFFIX,googleapis.cn
-  - IP-CIDR,10.0.0.0/8,no-resolve
+  - IP-CIDR,10.0.0.139/32,no-resolve
