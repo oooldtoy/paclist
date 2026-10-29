@@ -11,9 +11,7 @@ payload:
   - IP-CIDR,34.36.119.159
 
     # --- PTCG Pocket
-  #- DOMAIN-SUFFIX,nintendo.com
   - DOMAIN-SUFFIX,app-41283.com
-  #- DOMAIN-SUFFIX,akamaized.net
 
   # ACL4SSR标志 如没有，代表不是用ACL4SSR规则
   - DOMAIN-SUFFIX,acl4.ssr
