@@ -50,5 +50,6 @@ payload:
   - IP-CIDR,103.28.54.0/24,no-resolve
   - DOMAIN-SUFFIX,turtle-wow.org.com
 
+  #怪物猎人旅人日服
   - DOMAIN-SUFFIX,monsterhunteroutlanders.com
 
